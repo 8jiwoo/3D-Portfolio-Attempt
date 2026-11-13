@@ -4,9 +4,9 @@
 
 **A little 360° room you can look around in. My portfolio.**
 
-[**Open it → 8jiwoo.github.io**](https://8jiwoo.github.io)
+[**Open it → 8jiwoo.github.io/3D-Portfolio-Attempt**](https://8jiwoo.github.io/3D-Portfolio-Attempt/)
 
-<a href="https://8jiwoo.github.io"><img src="docs/preview.jpg" alt="A cartoon-style living room at blue hour, seen through a fisheye lens" width="100%"></a>
+<a href="https://8jiwoo.github.io/3D-Portfolio-Attempt/"><img src="docs/preview.jpg" alt="A cartoon-style living room at blue hour, seen through a fisheye lens" width="100%"></a>
 
 </div>
 
